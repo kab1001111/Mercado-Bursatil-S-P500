@@ -52,8 +52,8 @@ Url:https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
 Programas y librerias utilizadas :
 
-Python ver 3.11
-Visual Studio Code
+Python ver 3.11,
+Visual Studio Code,
 IDE Colab (gooogle)
 
 Package               Version
