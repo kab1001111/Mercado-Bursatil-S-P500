@@ -26,7 +26,7 @@ La función principal del índice S&P 500 es proporcionar una medida amplia y re
 El S&P 500 es ampliamente utilizado como un indicador de la salud económica de los Estados Unidos y como un punto de referencia para los inversores que desean evaluar el rendimiento de sus inversiones en acciones. 
 
 ### **Desarollo del Trabajo**
-En base a lo argumentad,  nuestra idea de este informe es explicar de manera detallada y sensilla como orientar a nuestros inversores en algunos sectores del S&P500  han crecido de manera sostenida para tener un rentabilidad de su inversión en el tiempo.
+En base a lo argumentado,  nuestra idea de este informe es explicar de manera detallada y sensilla como orientar a nuestros inversores en algunos sectores del S&P500  que han crecido de manera sostenida para tener un rentabilidad de su inversión en el tiempo.
 
 A continuacion enumeramos los pasos a seguir:
 
@@ -38,7 +38,7 @@ A continuacion enumeramos los pasos a seguir:
 
 4. Hacemos una KPIs del rendimiento.
 
-**Los Archivos EDA para ver sus reportes hay que abrirlos con el GITHUB editor (pantalla superior izquierda donde esta la pluma).
+**Los Archivos EDA para ver sus reporte se abren con el GITHUB editor como Github.dev (pantalla superior izquierda donde esta la pluma).
 
 
 Fuentes utilizadas:
