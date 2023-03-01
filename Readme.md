@@ -54,7 +54,7 @@ Programas y librerias utilizadas :
 
 Python ver 3.11,
 Visual Studio Code,
-IDE Colab (gooogle)
+IDE Colab (google)
 
 Package               Version
 --------------------- -----------
