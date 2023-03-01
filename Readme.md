@@ -1,5 +1,5 @@
 <p align='center'>
-<img src ='./images/bursatil_image.jpg'alt="alt text" width="600" height="300"><p>
+<img src ='bursatil_image.jpg'alt="alt text" width="600" height="300"><p>
 
 <h1 align='center'>
  <b>PROYECTO:</b>
